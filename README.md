@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shagun 👋</h1>
+<h1 align="center">Hi, I'm Shagun </h1>
 <p align="center"><i>Backend & AI Systems Engineer — I build the parts users never see:
 async pipelines, JWT-secured APIs, and Postgres/pgvector-backed AI services.</i></p>
 
@@ -9,15 +9,15 @@ async pipelines, JWT-secured APIs, and Postgres/pgvector-backed AI services.</i>
 </p>
 
 ```text
-$ whoami
+$ who am i
 > CS undergrad (AI & Deep Learning) @ Mody University
-> ex-Software Engineering Intern @ Capgemini
+> ex-Software Engineer Intern @ Capgemini
 > ex-Backend Development Intern @ Shrej India
 > I care about how systems behave under concurrency, failure, and scale —
   not just whether the demo works.
 ```
 
-## ⚙️ What I've built
+## What I've built
 
 **Praxis — AI Mock Interview Platform**
 A three-service system (Angular · Spring Boot · FastAPI) for AI-driven mock interviews.
@@ -40,19 +40,19 @@ book availability, borrowing eligibility, uniqueness constraints on member email
 number (released correctly on member deletion) — are enforced server-side, and issue/
 return workflows compute due dates and fines automatically.
 
-## 💼 Experience
+## Experience
 
 - **Software Engineering Intern, Capgemini** (Jun–Aug 2026) — built Praxis and LibManage
 - **Backend Development Intern, Shrej India** (Jul–Aug 2025) — Spring Boot backend for
   steel utensils import/export operations; REST APIs for product, client, supplier and
   order management; JWT auth with role-based access control via Spring Security
 
-## 🎙️ Leadership
+## Leadership
 
 Chairperson, IEEE Computer Society (Mody University) — organizing committee for IEEE Day
 and Quiztech.
 
-## 🧱 Tech stack
+## Tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk" />
@@ -80,7 +80,7 @@ and Quiztech.
 
 *(RAG · embeddings · LLM structured outputs · Scikit-learn · Pandas · NumPy — applied AI layer on top of the stack above)*
 
-## 📌 Featured repositories
+## Featured repositories
 
 | Repo | What it demonstrates |
 |---|---|
@@ -96,5 +96,5 @@ and Quiztech.
 <p>
   <a href="mailto:mogha.shagun@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail" /></a>
   <a href="https://github.com/Shagunnn25"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" /></a>
-  <img src="https://img.shields.io/badge/LinkedIn-add%20link-black?style=flat-square&logo=linkedin" />
+  <img src="[[https://img.shields.io/badge/LinkedIn-add%20link-black?style=flat-square&logo=linkedin](https://www.linkedin.com/in/shagun-mogha-408746289/)](https://www.linkedin.com/in/shagun-mogha-408746289/)" />
 </p>
